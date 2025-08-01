@@ -33,10 +33,8 @@ const comedyQuotes = [
 function ComedyQuiz() {
   const {
     currentQuestion,
-    score,
     showResult,
-    handleOptionClick,
-    restartGame
+    handleOptionClick
   } = useQuizLogic(comedyQuotes, "comedy");
 
   const current = comedyQuotes[currentQuestion];

@@ -31,10 +31,8 @@ const bollywoodQuotes=[
 function BollywoodQuiz() {
   const {
     currentQuestion,
-    score,
     showResult,
-    handleOptionClick,
-    restartGame
+    handleOptionClick
   } = useQuizLogic(bollywoodQuotes, "bollywood");
 
   const current =  bollywoodQuotes[currentQuestion];

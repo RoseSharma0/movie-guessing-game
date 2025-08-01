@@ -33,10 +33,8 @@ const actionQuotes = [
 function ActionQuiz() {
   const {
     currentQuestion,
-    score,
     showResult,
-    handleOptionClick,
-    restartGame
+    handleOptionClick
   } = useQuizLogic(actionQuotes,"action");
 
   const current = actionQuotes[currentQuestion];

@@ -2,7 +2,7 @@
   "name": "movie-guessing-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YOUR_USERNAME.github.io/movie-guessing-game",
+  "homepage": "https://RoseSharma0.github.io/movie-guessing-game",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
