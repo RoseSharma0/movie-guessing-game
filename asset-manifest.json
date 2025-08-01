@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-guessing-game/static/css/main.b5bd18e4.css",
+    "main.js": "/movie-guessing-game/static/js/main.4b1c38c2.js",
+    "index.html": "/movie-guessing-game/index.html",
+    "main.b5bd18e4.css.map": "/movie-guessing-game/static/css/main.b5bd18e4.css.map",
+    "main.4b1c38c2.js.map": "/movie-guessing-game/static/js/main.4b1c38c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5bd18e4.css",
+    "static/js/main.4b1c38c2.js"
+  ]
+}
